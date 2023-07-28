@@ -7,7 +7,8 @@ public class Adding {
 	for(int i:mark) {
 		sum+=i;
 	}
-	System.out.println(sum);		
+	System.out.println(sum);	
+	System.out.println("nothing");
 	}
 
 }
